@@ -10,8 +10,7 @@
 
 | Version | Description | Status |
 |---|---|---|
-| [Whitepaper v0.2](./Palma_HealthChain_Whitepaper_v0.2.docx) | Current version — international expansion, IHR 2024, EHDS, GDHCN | **Current** |
-| [Whitepaper v0.1](./Palma_HealthChain_Whitepaper_v0.1.docx) | Initial release — canonical schema, Hajj pilot, core architecture | Historical |
+| [Whitepaper v0.3](./Palma_HealthChain_Whitepaper_v0.3.docx) | Current version — international expansion, IHR 2024, EHDS, GDHCN | **Current** |
 
 ## What this whitepaper covers
 
